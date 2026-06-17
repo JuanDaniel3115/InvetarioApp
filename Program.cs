@@ -29,13 +29,15 @@ Console.WriteLine($".NET Version: {Environment.Version}");
 Console.WriteLine();
 
 Console.WriteLine("Estructura del proyecto:");
-
+Console.WriteLine("  InventarioApp/"); 
+Console.WriteLine("  ├── program.cs"); 
+Console.WriteLine("  ├── InventarioApp.csproj"); 
+Console.WriteLine("  ├── gitignore"); 
+Console.WriteLine("  ├── README.md"); 
+Console.WriteLine("  ├── src/"); 
+Console.WriteLine("      ├── Models/"); 
 Console.WriteLine("Configuracion .csproject: Define el proyecto y sus dependencias.");
-
-Console.WriteLine("Carpeta src/ creada para organizar el código fuente.");
 
 Console.WriteLine("Metadatos configurados");
 
 Console.WriteLine();
-
-Console.WriteLine("Proximos pasos: Agregar argumentos CLI yy configuración del repositorio en GitHub");
