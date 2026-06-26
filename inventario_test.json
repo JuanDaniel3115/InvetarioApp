@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop",
+    "descripcion": "",
+    "precio": 999.99,
+    "cantidad": 10,
+    "categoria": "Electronica",
+    "estado": "Activo",
+    "fechaRegistro": "2026-06-25T21:02:41.1913435-05:00",
+    "valorTotal": 9999.90
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta",
+    "descripcion": "",
+    "precio": 19.99,
+    "cantidad": 50,
+    "categoria": "Ropa",
+    "estado": "Activo",
+    "fechaRegistro": "2026-06-25T21:02:41.2066034-05:00",
+    "valorTotal": 999.50
+  }
+]
