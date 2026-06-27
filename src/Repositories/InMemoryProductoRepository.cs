@@ -21,7 +21,7 @@ namespace InventarioApp.Repositories
         {
             return _producto.AsReadOnly();
         }
-        public bool Atualizar(Producto producto)
+        public bool Actualizar(Producto producto)
         {
             var existente = ObtenerPorId(producto.Id);
             if (existente == null) return false;
